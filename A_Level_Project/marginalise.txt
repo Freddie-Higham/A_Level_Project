@@ -1,0 +1,94 @@
+ pauvre,poor,a,m
+la misère,poverty,n,f
+exclu,excluded,a,m
+exclue,excluded,a,f
+appauvrir,to impoverish,v
+le chômage,unemployment,n,m
+le demandeur d’emploi,job seeker,n,m
+toucher une allocation,to receive a benefit,v
+l’indifférence,indifference,n,f
+apporter des soins,to care for,v
+la chaleur humaine,human warmth,n,f
+vivre dans la misère,to live in poverty,v
+la santé,health,n,f
+être dans le besoin,to be in need,v
+la souffrance,suffering,n,f
+caritatif,charitable,a,m
+caritatif,charitable,a,f
+la faim,hunger,n,f
+le ghetto,ghetto,n,m
+l’appauvrissement,impoverishment,n,m
+le système sanitaire,health system,n,m
+défendre,to defend,v
+mendier,to beg,v
+le toxicomane,drug addict,n,m
+la pauvreté,poverty,n,f
+marginaliser,to marginalise,v
+l’exclusion sociale,social exclusion,n,f
+l’emploi,employment,n,m
+le chômeur,unemployed person,n,m
+le sans-abri,homeless person,n,m
+le soin,care,n,m
+le centre de distribution alimentaire,food bank,n,m
+le droit,right,n,m
+le seuil de pauvreté,poverty threshold,n,m
+le besoin fondamental,basic need,n,m
+souffrir,to suffer,v
+l'association,charity,n,f
+affamé,starving,a,f
+affamé,starving,a,f
+la zone sensible,difficult area,n,f
+démuni,destitute,a,m
+démunie,destitute,a,m
+aisé,well off,a,m
+aisée,well off,a,m
+le marginalisé,excluded person,n,m
+l'accompagnement juridique,legal aid,n,m
+le mendiant,beggar,n,m
+se droguer,to take drugs,v
+le bénévole,unpaid volunteer,n,m
+le bénévolat,volunteering,n,m
+la frange,fringe,n,f
+la retraite,retirement,n,f
+retraité,retired,a,m
+retraitée,retired,a,f
+le mode de vie,way of life,n,m
+le nomadisme,wandering about,n,m
+le soutien,support,n,m
+la générosité,generosity,n,f
+le sanctuaire,sanctuary,n,m
+à l’étranger,abroad,n,m
+autrui,other people,n,m
+interpeller,to arrest,v
+assistant social,social worker,n,m
+donner le coup de main,to lend a helping hand,v
+la réinsertion,reintegration,n,f
+en détresse,in distress,n,m
+le foyer,hostel,n,m
+l'autorité locale,local authority,n,f
+s’occuper de,to look after,v
+le volontaire,paid volunteer,n,m
+survivre,to survive,v
+le structure d’accueil,reception centre,n,m
+le troisième âge,old age,n,m
+prendre la retraite,to retire,v
+errer,to wander,v
+distribuer,to hand out,v
+soutenir,to support,v
+donner de son temps,to give your time,v
+le refuge,shelter,n,m
+le quartier défavorisé,poor neighbourhood,n,m
+héberger,to put up shelter,v
+défavorisé,underprivileged,a,m
+défavorisée,underprivileged,a,f
+le SDF,homeless person,n,m
+le service social,social services,n,m
+l’aide à domicile,home help,n,m
+la détresse,distress,n,f
+apporter de l’aide,to give help,v
+faire un service,to do a favour,v
+sensibiliser,to raise awareness,v
+priviliégié,privileged,a,m
+priviliégiée,privileged,a,f
+les pouvoirs publics,authories,n,m
+donner à manger,to feed,v

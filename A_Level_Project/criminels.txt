@@ -1,0 +1,98 @@
+la prison,prison,n,f
+un détenu,prisoner-inmate,n,m
+un prisonnier,prisoner,n,m
+en tôle,in jail,n,m
+traiter,to treat,v
+l’incarcération,imprisonment,n,f 
+emprisonner,to imprison,v
+l’emprisonnement,imprisonment,n,m
+la réclusion à perpétuité,life imprisonment,n,f
+derrière les barreaux,behind bars,n,m
+la peine de mort,death penalty,n,f
+la peine capitale,death penalty,n,f
+une peine,sentence,n,f
+protéger,to protect,v
+dissuader,to deter,v
+punir,to punish,v
+sanctionner,to punish,v
+la punition,punishment,n,m
+les travaux d’intérêt général,community work,n,m
+la réinsertion,rehabilitaion,n,f
+la réhabilitation,rehabilitaion,n,f
+la réintégration,reintegration,n,f
+aller en prison,to go to prison,v
+la liberté,freedom,n,f 
+la liberté conditionnelle,parole,n,f
+libérer sur parole,to parole,v
+une évasion,escape,n,f
+incarcérer,to imprison,v
+un évadé,escapee,n,m
+une cellule,cell,n,f
+un gardien de prison,prison guard,n,m 
+la courm,exercise yard,n,f
+les stupéfiants,drugs,n,m
+se droguer,to take drugs,v
+un drone,drone,n,f
+introduire clandestinement,to smuggle,v
+partager une cellule,to share a cell,v
+l’isolement,solitary confinement,n,m
+une prison de haute sécurité,high security prison,n,f
+le taux d’incarcération,imprisonment rate,n,m
+une prison ouverte,open prison,n,f
+le harcèlement,bullying,n,m
+la violence,violence,n,f
+le surpeuplement,overcrowding,n,m 
+la dépression,depression,n,f
+la santé mentale,mental health,n,f 
+la dépendance,addiction,n,f
+l’arrestation,arrest,n,f
+le comportement,behaviour,n,m 
+brutal,brutal,a,m
+brutale,brutal,a,f
+confisquer,to confiscate,v
+une bagarre,fight,n,f
+un meurtre,murder,n,m
+une agression,attack,n,f
+un gang,gang,n,m
+la libération précoce,early release,n,f
+un cambriolage,burglary,n,m
+la loi,law,n,f
+un délinquant,offender,n,m
+la sécurité,safety,n,f
+la justice,justice,n,f
+le rêglement,rules,n,m
+la victime,victim,n,f
+la politique,policy,n,f
+scanner,to scan,v
+les murs,walls,n,m
+le budget,budget,n,m
+l’investissement,investment,n,m
+le personnel,staff,n,m
+le compagnon,bunk beds,n,m 
+l’activité,activity,n,f
+l’autorité,authority,n,f
+une raclée,beating,n,f
+l’ennui,boredom,n,m
+l’inactivité,inactivity,n,f
+un visiteur,visitor,n,m
+le manqué de personnel,lack of staff,n,m
+la vétusté,old age,n,f
+privatiser,to privatise,v
+privé,private,a,m
+privée,private,a,f
+la maladie mentale,mental illness,n,f
+la discipline,discipline,n,f
+l’infirmerie,infirmary,n,f
+récidiver,to reoffend,v
+un multirécividiste,habitual offender,n,m
+s’ennuyer,to get bored,v
+le suicide,suicide,n,m
+se suicider,to commit suicide,v
+faire de la prison,to serve time,v
+un séjour en prison,prison stretch,n,m
+l’opinion,public opinion,n,f
+une inspection,inspection,n,f
+la fouille,search,n,f
+cacher,to hide,v
+dissimuler,to hide,v
+fouiller,to search,v

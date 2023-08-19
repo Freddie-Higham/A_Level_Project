@@ -1,0 +1,146 @@
+﻿la diversité,diversity,n,f
+la mixité ethnique,ethnic variety,n,f
+le respect,respect,n,m
+se méfier de,to mistrust,v
+la religion,religion,n,f
+s’entendre avec,to get on with,v
+l’acceptation,acceptance,n,f
+la citoyenneté,citizenship,n,f
+l’égalité,equality,n,f
+la peur,fear,n,f
+la gentillesse,kindness,n,f
+la reconnaissance,recognition,n,f
+l’homosexualité,homosexuality,n,f
+être ouvert à,to be open to,v
+l’élargissement,broadening,n,m
+la race,race,n,f
+la sexualité,sexuality,n,f
+l’exclusion,social exclusion,n,f
+tolérer,to tolerate,v
+la discrimination,discrimination,n,f
+la minorité ethnique,ethnic minority,n,f
+multiculturel,multicultural,a,m
+multiculturelle,multicultural,a,f
+la laïcité,secularism,n,f
+la tolérance,tolerance,n,f
+respecter,to respect,v
+se fier de,to trust,v
+la culture,culture,n,f
+l’enrichissement,enrichment,n,m
+le sectarisme,bigotry,n,m
+le citoyen,citizen,n,m
+la foi,faith,n,f
+l’identité,identity,n,f
+la paix,peace,n,f
+la coopération,cooperation,n,f
+le mythe,myth,n,m
+bisexuel,bisexual,a,m
+bisexuelle,bisexual,a,f
+la nationalité,nationality,n,f
+la cohésion sociale,social cohesion,n,f
+harceler,to bully,v
+discriminer,to discriminate,v
+la compréhension,understanding,n,f
+le genre,gender,n,m
+le bénéfice,benefit,n,m
+la croyance,belief,n,f
+le milieu,background,n,m
+égal,equal,a,m
+égale,equal,a,f
+la différence,difference,n,f
+l’ethnicité,ethnicity,n,f
+l’inclusion,inclusion,n,f
+la richesse,richness,n,f
+assimiler,to assimilate,v
+l’intégration,integration,n,f
+la communauté,community,n,f
+stigmatiser,to stigmatise,v
+le melting pot,melting pot,n,m
+la classe sociale,social class,n,f
+hétérogène,heterogeneous,a,m
+le handicap,disablement,n,m
+adhérer à,to embrace-to adopt,v
+semblable,similar,a,m
+désapprouver,to disapprove of,v
+l’incompréhension,misunderstanding,n,f
+la discrimination positive,positive discrimination,n,f
+réaliser,to achieve,v
+bénéficier de,to benefit from,v
+juste,fair,a,m
+l'individu,individual,n,m
+sensible,sensitive,a,m
+la cadre légal,legal framework,n,f
+discriminatoire,discriminatory,a,m
+enrichir,to enrich,v
+intégrer,to integrate,v
+éduquer,to educate,v
+la ségrégation,segregation,n,f
+jouir de,to enjoy,v
+la variété,variety,n,f
+homogène,homogeneous,a,m
+handicapé,disabled,a,m
+handicapée,disabled,a,f
+l’accès,access,n,m
+la valeur,value,n,f
+opprimer,to oppress,v
+mal interpréter,to misunderstand,v
+la poudre aux yeux,tokenism,n,f
+la barrière,barrier,n,f
+améliorer,to improve,v
+accueillant,welcoming,a,m
+accueillante,welcoming,a,f
+l'ambiance,atmosphere,n,f
+améliorer,to improve,v
+l’apport,contribution,n,m
+l’assimilation,integration,n,f
+assurer,to maintain,v
+l’attache,link,n,f
+l’avis,opinion,n,m
+coexister,to live together,v
+la colocation,house sharing,n,f
+la compétence,skill,n,f
+construire,to build,v
+contester,to argue,v
+le côntrole,control-checking,n,m
+décourager,to discourage,v
+le défi,challenge,n,m
+enrichir,to enrich,v
+l’enrichissement,enrichment,n,m
+l’énumération,catalogue-list,n,f
+équilibré,balanced,a,m
+équilibrée,balanced,a,f
+l'étendard,standard-flag,n,m
+favoriser,to favour-to promote,v
+au fil du temps,as time goes by,p
+franchir,to break through-to cross,v
+indiscutable,unquestionable,a,m
+l'individualité,individuality,n,f
+inéluctable,inevitable,a,m
+insoluble,without a solution,a,m
+intégrer,to integrate,v
+interagir,to interact,v
+se manifester,to show,v
+mettre fin à,to put an end to,v
+meurtrier,deadly,a,m
+meurtrière,deadly,a,f
+l'objectif,objective-aim,n,m
+paisible,peaceful,a,m
+partager,to share,v
+la particularité,unique quality,n,f
+permettre,to allow,v
+la perte,loss,n,f
+prévoir,to foresee,v
+le processus,process,n,f
+la racine,root,n,f
+la reconnaissance,recognition,n,f
+la richesse,richness,n,f
+sain,healthy,a,m
+saine,healthy,a,f
+sensibiliser,to make aware,v
+la singularité,uniqueness,n,f
+songer,to think about,v
+souhaitable,desirable,a,m
+soutenir,to support,v
+tenir à,to beleive in,v
+la tolérance,tolerance,n,f
+valoriser,to value,v
