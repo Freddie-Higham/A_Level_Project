@@ -88,7 +88,7 @@ class WordLine:
 
 	#A method for the traversal.
 
-	def checkQueryIndex(self):
+	def queryWordsChecked(self):
 	
 		#Returns True if every word in the query has been tried in the traversal.
 		if self.__query_result_index >= len(self.__query_result) - 1:
@@ -130,7 +130,7 @@ class WordLine:
 	def switchQueryWord(self):
 
 		#If the query_result_index has not exeeded the length of the query_result then incriment it.
-		if self.checkQueryIndex():
+		if self.queryWordsChecked():
 			self.__query_result_index += 1
 			self.addWord()
 
@@ -361,17 +361,11 @@ class Graph:
 
 		#A boolean which indicates whether the method will continue traversing in the current iteration.
 		traverse = False
-
-		#(Debgugging).
-		if self.__debugging: print(f"\ncurrent_node: {current_node.getNumber()}, substring_values: {substring_values}")
 		
 		#Runs if the current_node does not have a query result attributed to it.
-		if not current_node.checkQueryIndex() and not current_node.getHadQuery():
-		
-			#(Debgugging).
-			if self.__debugging: print(f"performing query (node {current_node.getNumber()} does not have a query yet)")
+		if not current_node.queryWordsChecked() and not current_node.getHadQuery():
 
-			#Perform a query and store the results. 
+			#Perform an SQL query on the vocabulary database and store the results. 
 			#result is a 2D array in the format ((1st word result, traslation), (2nd word result, traslation)).
 			result = self.__query(substring_values, current_node)
 				
@@ -380,15 +374,9 @@ class Graph:
 			
 				#If it is the first node being traversed and no query results are found then the traversal must end.
 				if visited==[]:
-					
-					#(Debugging).
-					if self.__debugging: print("End of traversal")
 			
 				#No results have been found so it returns to the previous node visited.
 				else:
-					
-					#(Debugging).
-					if self.__debugging: print(f"going back from node {current_node.getNumber()} to {visited[-1].getNumber()}")
 					
 					visited_store = visited[-1]
 					visited.pop(-1)
@@ -397,9 +385,6 @@ class Graph:
 			#At least one query result has been found.
 			else:
 				
-				#(Debugging).
-				if self.__debugging: print("Added query result")
-				
 				#Store the query result in the current_node object.
 				current_node.addQuery(result)
 				
@@ -407,21 +392,14 @@ class Graph:
 				traverse = True
 		
 		#Runs if the current_node has a query_result but every word from that query result has been tried.
-		elif not current_node.checkQueryIndex() and current_node.getHadQuery():
+		elif not current_node.queryWordsChecked() and current_node.getHadQuery():
 			
 			if visited==[]:
-			
-				if self.__debugging: print("End of traversal")
 			
 			#The current_node is reset and the program returns to the previous node visited.
 			else:
 		
 				current_node.resetNode()
-				
-				#(Debugging).
-				if self.__debugging: 
-					print(f"reset node {current_node.getNumber()}")
-					print(f"going back from node {current_node.getNumber()} to {visited[-1].getNumber()}")
 				
 				visited_store = visited[-1]
 				visited.pop(-1)
@@ -439,40 +417,15 @@ class Graph:
 		#Continue the depth-first traversal if traverse is True.
 		if traverse:
 			
-			#(Debugging).
-			if self.__debugging: 
-				print("traversing")
-				print(f"selected: {current_node.getFillingInWord()}")
-
 			#Add the current node to the visited list.
 			visited.append(current_node)
 
 			for intersection in current_node.getIntersections():
 
-				#(Debugging).
-				if self.__debugging: print(f"intersection: from {current_node.getNumber()} to {intersection[0].getNumber()}")
-
 				#If the intersecting node has not been visited yet then visit it.
 				if intersection[0] not in visited:
-				 
-					#(Debugging).
-					if self.__debugging: 
-						print(f"traversing from node {current_node.getNumber()} to {intersection[0].getNumber()}")
-						visited_numbers = [] 
-						for node in visited:
-							visited_numbers.append(node.getNumber())
-							print(f"visited: {visited_numbers}")
 
 					self.__traversal(intersection[0], visited)
-
-		#(Debugging).
-		if self.__debugging:
-			visited_numbers = [] 
-			for node in visited:
-				visited_numbers.append(node.getNumber())
-
-			return visited_numbers
-
 
 	#A method for the traversal which finds the letters that the word must contain for the SUBSTR part of the query.
 
